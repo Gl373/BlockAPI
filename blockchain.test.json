@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": 1748436891957,
+    "lastHash": "----",
+    "data": [],
+    "hash": "#1",
+    "nonce": 0,
+    "difficulty": 2
+  },
+  {
+    "timestamp": 1749148533576,
+    "lastHash": "#1",
+    "data": {
+      "id": "tx789",
+      "amount": 300,
+      "sender": "Alice",
+      "receiver": "Bob"
+    },
+    "hash": "09d0eeb6cff9dbf819a89d356f12cc38946780987f70852fcee56a79705771ff",
+    "nonce": 27,
+    "difficulty": 1
+  }
+]
